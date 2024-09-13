@@ -10,7 +10,7 @@ Previo a iniciar el desarrollo de softwarwe para web udando el framework de Node
 |--|--|--|
 |1.|Metodología de Evaluacion| Activa |
 |2.|Inicialización del Proyecto de Fundamentos de JS| Activa |
-|3.| Ejercicio 01: Declaración de | Activa |
+|3.| Ejercicio 01: Declaración de variables de JavaScript| Activa |
 
 ## Autor 
 Diego Salvador Tecorralco Martínez
