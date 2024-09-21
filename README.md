@@ -6,11 +6,13 @@ Previo a iniciar el desarrollo de softwarwe para web udando el framework de Node
 
 ## Historial de Prácticas
 
-|No.|Descripción|Estatus|
-|--|--|--|
-|1.|Metodología de Evaluacion| Activa |
-|2.|Inicialización del Proyecto de Fundamentos de JS| Activa |
-|3.| Ejercicio 01: Declaración de variables de JavaScript| Activa |
+|No.|Descripción|Potenciador|Estatus|
+|--|--|--|--|
+|1.|Metodología de Evaluación|1|Finalizada |
+|2.|Inicialización del Proyecto de Fundamentos de JS|5|Finalizada|
+|3.|Declaración de Variables (Undefined/Boolean/Number)|10|Finalizada|
+|4.|Declaración de Variables (String/BigInt/Symbol/Null/Function)|6|Activa|
+|5.|Introducción a Objetos |Activa|
 
 ## Autor 
 Diego Salvador Tecorralco Martínez
