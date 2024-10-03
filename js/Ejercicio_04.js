@@ -196,3 +196,6 @@ let [signo1,,signo3,,,,signo7,,,,]=signosZodiacales;
 console.log(`El primer signo zodiacal en: ${signo1}`)
 console.log(`El tercer signo zodiacal en: ${signo3}`)
 console.log(`El septimo signo zodiacal en: ${signo7}`)
+
+//Congelamos el arreglo volviendolo INMUTABLE
+Object.freeze(signosZodiacales);
