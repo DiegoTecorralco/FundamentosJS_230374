@@ -195,7 +195,7 @@ console.table(estudiantes);
 console.log("%c10.- Metodos para la manipulacion de arreglos INMUTABLES", style_console);
 let signosZodiacales = ["Aries","Tauro", "Geminis", "Cancer", "Leo","Virgo","Libra","Escorpio","Sagitario","Capricornio","Acuario", "Piscis"]
 
-//Destructuracion de arreglos
+//Destructuracion de arregloss
 
 let [signo1,,signo3,,,,signo7,,,,,]=signosZodiacales
 console.log(`El primer signo zodiacal es: ${signo1}`)
