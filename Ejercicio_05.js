@@ -269,4 +269,5 @@ try{  // Intenta
         console.log(`Dia ${j} ${dias[j]}`)
         console.log(`Mensaje del dia : ${mensaje[j]}`)
         j++;
+        
     }
